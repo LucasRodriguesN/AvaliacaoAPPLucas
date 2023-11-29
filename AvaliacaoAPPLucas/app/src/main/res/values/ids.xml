@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <item name="editTextNome" type="id" />
+    <item name="editTextData" type="id" />
+    <item name="editTextLocal" type="id" />
+    <item name="editTextHorario" type="id" />
+    <item name="buttonSalvar" type="id" />
+</resources>

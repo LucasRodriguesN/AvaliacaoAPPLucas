@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AvaliacaoAPPLucas</string>
+    <string name="AgendaCompromisso">Agenda de Compromissos</string>
+    <string name="NomeDoCompromisso">Nome do Compromisso</string>
+    <string name="DataDoCompromisso">Data do Compromisso</string>
+    <string name="Local">Local do Compromisso</string>
+    <string name="Horario">Horário do Compromisso</string>
+    <string name="salvarCompromisso">Salvar Compromisso</string>
+</resources>
